@@ -1,2 +1,2 @@
 # TXT4
-Problem Statement: 
+Problem Statement: Skateboarders in Los Angeles face difficulty finding skate spots that meet their level of expertise.
